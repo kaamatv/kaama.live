@@ -1,11 +1,14 @@
-export const environment = {
+export const Environment = {
     /**
      * General
      */
-    debug: true,
+    APP_NAME: 'Kaama.live',
+    APP_TITLE_FORMAT: ' | ',
+    APP_DEBUG: true,
+    APP_SECRETKEY: 'nothing to see here lul but nice try',
 
     /**
      * Security
      */
-    apiKey: 'devKey'
+    apiKey: 'nothing to see here lul but nice try'
 }
